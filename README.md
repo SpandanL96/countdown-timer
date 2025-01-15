@@ -70,3 +70,5 @@ Contributions are welcome! Please follow these steps:
 5. Open a pull request.
 
 ## Thank You 
+
+** Keep Coding **
